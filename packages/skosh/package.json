@@ -1,5 +1,5 @@
 {
-  "name": "skosh",
+  "name": "skosh-cli",
   "version": "0.1.0",
   "description": "Scaffold a skosh e-commerce storefront or switch its template, from one command",
   "license": "MIT",

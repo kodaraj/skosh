@@ -22,10 +22,10 @@ Every interactive prompt has a flag or argument equivalent, so
 non-interactively.
 
 Examples:
-  npx skosh
-  npx skosh create my-store
-  npx skosh create my-store --template grocery --pm pnpm --no-install
-  npx skosh template electronics
+  npx skosh-cli
+  npx skosh-cli create my-store
+  npx skosh-cli create my-store --template grocery --pm pnpm --no-install
+  npx skosh-cli template electronics
 `;
 
 /**

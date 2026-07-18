@@ -3,7 +3,7 @@
 A production-quality, open source e-commerce storefront template for React Native and Expo. Pick a template style, plug in your products, and ship a polished store app in minutes, not months.
 
 ```bash
-npx skosh create my-store --template fashion
+npx skosh-cli create my-store --template fashion
 ```
 
 Skosh ships with three complete visual templates, a fully typed data layer you can point at any backend, and a mock data mode that runs with zero setup. Every screen is built to a modern design standard: skeleton loaders, designed empty states, optimistic updates, haptics, dark mode, and smooth micro-interactions out of the box.
@@ -12,7 +12,7 @@ Skosh ships with three complete visual templates, a fully typed data layer you c
 
 ## Features
 
-- **Three templates, one codebase.** Fashion, grocery, and electronics styles built entirely from design tokens. Pick one at scaffold time, and switch any time with `npx skosh template`.
+- **Three templates, one codebase.** Fashion, grocery, and electronics styles built entirely from design tokens. Pick one at scaffold time, and switch any time with `npx skosh-cli template`.
 - **Bring your own backend.** All data flows through a single typed `DataProvider` interface. Ships with a mock provider (default), a Supabase reference implementation, and a REST skeleton ready for your API.
 - **Runs instantly.** The default mock provider uses local JSON with realistic seed data. No accounts, no API keys, no config.
 - **Complete storefront.** Home, search with filters, product detail with variant selection, cart, wishlist, checkout flow (UI only), auth screens, order history, onboarding.
@@ -25,18 +25,18 @@ Skosh ships with three complete visual templates, a fully typed data layer you c
 Three commands to a running store with mock data:
 
 ```bash
-npx skosh create my-store
+npx skosh-cli create my-store
 cd my-store
 npx expo start
 ```
 
 Scan the QR code with Expo Go, or press `i` / `a` for a simulator. The app boots against bundled mock products, so it works before you touch a single config file.
 
-Running `npx skosh` with no arguments opens an interactive menu instead: create a new app, or switch the template of the app you are in. Every prompt has a flag or argument equivalent for CI and scripted setups:
+Running `npx skosh-cli` with no arguments opens an interactive menu instead: create a new app, or switch the template of the app you are in. Every prompt has a flag or argument equivalent for CI and scripted setups:
 
 ```bash
-npx skosh create my-store --template grocery --no-install
-npx skosh template electronics
+npx skosh-cli create my-store --template grocery --no-install
+npx skosh-cli template electronics
 ```
 
 ## Template gallery
@@ -55,7 +55,7 @@ All three templates render the same screens and components. Only the design toke
 
 <!-- screenshot: dark mode, all three templates side by side -->
 
-The template is a developer choice, not an end-user setting. The CLI writes your pick to `ACTIVE_TEMPLATE` in `skosh.config.ts`, and `npx skosh template <name>` switches it later; changing that one line restyles the entire app, which is the proof that the token architecture holds.
+The template is a developer choice, not an end-user setting. The CLI writes your pick to `ACTIVE_TEMPLATE` in `skosh.config.ts`, and `npx skosh-cli template <name>` switches it later; changing that one line restyles the entire app, which is the proof that the token architecture holds.
 
 ## Bring your own API
 
