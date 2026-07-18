@@ -1,0 +1,39 @@
+{
+  "name": "skosh",
+  "version": "0.1.0",
+  "description": "Scaffold a skosh e-commerce storefront or switch its template, from one command",
+  "license": "MIT",
+  "bin": {
+    "skosh": "index.js"
+  },
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "e-commerce",
+    "template",
+    "storefront",
+    "cli"
+  ],
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "picocolors": "^1.1.0",
+    "prompts": "^2.4.2",
+    "tar": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodaraj/skosh.git",
+    "directory": "packages/skosh"
+  },
+  "homepage": "https://github.com/kodaraj/skosh#readme",
+  "bugs": {
+    "url": "https://github.com/kodaraj/skosh/issues"
+  }
+}
