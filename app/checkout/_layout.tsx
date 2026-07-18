@@ -1,0 +1,16 @@
+import { Stack } from 'expo-router';
+
+import { useTheme } from '@/theme/use-theme';
+
+export default function CheckoutLayout() {
+  const { colors } = useTheme();
+
+  return (
+    <Stack
+      screenOptions={{
+        headerShown: false,
+        contentStyle: { backgroundColor: colors.background },
+      }}
+    />
+  );
+}
