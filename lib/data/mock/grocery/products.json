@@ -1,0 +1,578 @@
+[
+  {
+    "id": "hass-avocados",
+    "name": "Hass Avocados",
+    "description": "Creamy, ready-to-ripen avocados picked at peak season. Perfect for toast, salads, and guacamole.",
+    "priceMinor": 449,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=900&q=80",
+      "https://images.unsplash.com/photo-1601039641847-7857b994d704?w=900&q=80"
+    ],
+    "categoryId": "produce",
+    "variants": [
+      {
+        "id": "hass-avocados-2-pack",
+        "name": "2 pack",
+        "options": {
+          "size": "2 pack"
+        }
+      },
+      {
+        "id": "hass-avocados-4-pack",
+        "name": "4 pack",
+        "options": {
+          "size": "4 pack"
+        },
+        "priceOverrideMinor": 849
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-07-02T10:00:00.000Z"
+  },
+  {
+    "id": "organic-strawberries",
+    "name": "Organic Strawberries",
+    "description": "Sweet, fragrant strawberries grown without synthetic pesticides. Picked and packed within a day.",
+    "priceMinor": 599,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=900&q=80",
+      "https://images.unsplash.com/photo-1518635017498-87f514b751ba?w=900&q=80"
+    ],
+    "categoryId": "produce",
+    "variants": [
+      {
+        "id": "organic-strawberries-250-g",
+        "name": "250 g",
+        "options": {
+          "size": "250 g"
+        }
+      },
+      {
+        "id": "organic-strawberries-500-g",
+        "name": "500 g",
+        "options": {
+          "size": "500 g"
+        },
+        "priceOverrideMinor": 1049
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-10T10:00:00.000Z"
+  },
+  {
+    "id": "heirloom-tomatoes",
+    "name": "Heirloom Tomatoes",
+    "description": "A colorful mix of heritage varieties with real depth of flavor. Best kept out of the fridge.",
+    "priceMinor": 379,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?w=900&q=80",
+      "https://images.unsplash.com/photo-1592841200221-a6898f307baa?w=900&q=80"
+    ],
+    "categoryId": "produce",
+    "variants": [
+      {
+        "id": "heirloom-tomatoes-500-g",
+        "name": "500 g",
+        "options": {
+          "size": "500 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-18T10:00:00.000Z"
+  },
+  {
+    "id": "baby-spinach",
+    "name": "Baby Spinach",
+    "description": "Tender young spinach leaves, triple washed and ready for salads or a quick wilt.",
+    "priceMinor": 299,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=900&q=80",
+      "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=900&q=80"
+    ],
+    "categoryId": "produce",
+    "variants": [
+      {
+        "id": "baby-spinach-200-g",
+        "name": "200 g",
+        "options": {
+          "size": "200 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-30T10:00:00.000Z"
+  },
+  {
+    "id": "country-sourdough",
+    "name": "Country Sourdough",
+    "description": "Naturally leavened for 24 hours with a deep crust and an open, tangy crumb. Baked every morning.",
+    "priceMinor": 649,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=900&q=80",
+      "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=900&q=80"
+    ],
+    "categoryId": "bakery",
+    "variants": [
+      {
+        "id": "country-sourdough-1-loaf",
+        "name": "1 loaf",
+        "options": {
+          "size": "1 loaf"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "id": "butter-croissants",
+    "name": "Butter Croissants",
+    "description": "Laminated with French butter for 27 flaky layers. Warm them for five minutes and thank us later.",
+    "priceMinor": 459,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=900&q=80",
+      "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?w=900&q=80"
+    ],
+    "categoryId": "bakery",
+    "variants": [
+      {
+        "id": "butter-croissants-4-pack",
+        "name": "4 pack",
+        "options": {
+          "size": "4 pack"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-08T10:00:00.000Z"
+  },
+  {
+    "id": "blueberry-muffins",
+    "name": "Blueberry Muffins",
+    "description": "Bursting with wild blueberries under a crunchy sugar top. Baked in small batches.",
+    "priceMinor": 549,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?w=900&q=80",
+      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=900&q=80"
+    ],
+    "categoryId": "bakery",
+    "variants": [
+      {
+        "id": "blueberry-muffins-4-pack",
+        "name": "4 pack",
+        "options": {
+          "size": "4 pack"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-28T10:00:00.000Z"
+  },
+  {
+    "id": "rustic-baguette",
+    "name": "Rustic Baguette",
+    "description": "A crisp, golden baguette with a light, airy interior. Best eaten the day it is baked.",
+    "priceMinor": 349,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=900&q=80",
+      "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&q=80"
+    ],
+    "categoryId": "bakery",
+    "variants": [
+      {
+        "id": "rustic-baguette-1-loaf",
+        "name": "1 loaf",
+        "options": {
+          "size": "1 loaf"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-12T10:00:00.000Z"
+  },
+  {
+    "id": "organic-whole-milk",
+    "name": "Organic Whole Milk",
+    "description": "Fresh whole milk from grass-fed herds, gently pasteurized and nothing else.",
+    "priceMinor": 389,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=900&q=80",
+      "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=900&q=80"
+    ],
+    "categoryId": "dairy-eggs",
+    "variants": [
+      {
+        "id": "organic-whole-milk-1-l",
+        "name": "1 L",
+        "options": {
+          "size": "1 L"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-05T10:00:00.000Z"
+  },
+  {
+    "id": "free-range-eggs",
+    "name": "Free-Range Eggs",
+    "description": "Large eggs from hens that actually go outside. Rich yolks made for weekend breakfasts.",
+    "priceMinor": 549,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=900&q=80",
+      "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=900&q=80"
+    ],
+    "categoryId": "dairy-eggs",
+    "variants": [
+      {
+        "id": "free-range-eggs-12-pack",
+        "name": "12 pack",
+        "options": {
+          "size": "12 pack"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-20T10:00:00.000Z"
+  },
+  {
+    "id": "aged-cheddar",
+    "name": "Aged Cheddar",
+    "description": "Twelve months of patience in every block: sharp, crumbly, and a little crystalline.",
+    "priceMinor": 799,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=900&q=80",
+      "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=900&q=80"
+    ],
+    "categoryId": "dairy-eggs",
+    "variants": [
+      {
+        "id": "aged-cheddar-200-g",
+        "name": "200 g",
+        "options": {
+          "size": "200 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-15T10:00:00.000Z"
+  },
+  {
+    "id": "greek-yogurt",
+    "name": "Greek Yogurt",
+    "description": "Thick, strained yogurt with live cultures. A blank canvas for honey, fruit, or granola.",
+    "priceMinor": 449,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=900&q=80",
+      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=900&q=80"
+    ],
+    "categoryId": "dairy-eggs",
+    "variants": [
+      {
+        "id": "greek-yogurt-500-g",
+        "name": "500 g",
+        "options": {
+          "size": "500 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-22T10:00:00.000Z"
+  },
+  {
+    "id": "italian-spaghetti",
+    "name": "Italian Spaghetti",
+    "description": "Bronze-die pasta from Puglia with the rough texture sauce clings to. Cooks in nine minutes.",
+    "priceMinor": 329,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=900&q=80",
+      "https://images.unsplash.com/photo-1551462147-37885acc36f1?w=900&q=80"
+    ],
+    "categoryId": "pantry",
+    "variants": [
+      {
+        "id": "italian-spaghetti-500-g",
+        "name": "500 g",
+        "options": {
+          "size": "500 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-10T10:00:00.000Z"
+  },
+  {
+    "id": "extra-virgin-olive-oil",
+    "name": "Extra Virgin Olive Oil",
+    "description": "Cold-pressed single-estate oil, grassy and peppery. For finishing, dipping, and everything else.",
+    "priceMinor": 1299,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=900&q=80",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=900&q=80"
+    ],
+    "categoryId": "pantry",
+    "variants": [
+      {
+        "id": "extra-virgin-olive-oil-500-ml",
+        "name": "500 ml",
+        "options": {
+          "size": "500 ml"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-08T10:00:00.000Z"
+  },
+  {
+    "id": "arborio-rice",
+    "name": "Arborio Rice",
+    "description": "Plump short-grain rice that releases its starch slowly. The only rice your risotto wants.",
+    "priceMinor": 549,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=900&q=80",
+      "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=900&q=80"
+    ],
+    "categoryId": "pantry",
+    "variants": [
+      {
+        "id": "arborio-rice-1-kg",
+        "name": "1 kg",
+        "options": {
+          "size": "1 kg"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-25T10:00:00.000Z"
+  },
+  {
+    "id": "wildflower-honey",
+    "name": "Wildflower Honey",
+    "description": "Raw, unfiltered honey from hives that move with the bloom. Floral, golden, never heated.",
+    "priceMinor": 899,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=900&q=80",
+      "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=900&q=80"
+    ],
+    "categoryId": "pantry",
+    "variants": [
+      {
+        "id": "wildflower-honey-340-g",
+        "name": "340 g",
+        "options": {
+          "size": "340 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-30T10:00:00.000Z"
+  },
+  {
+    "id": "single-origin-coffee",
+    "name": "Single-Origin Coffee",
+    "description": "Ethiopian beans roasted to order with notes of bergamot and stone fruit. Whole bean.",
+    "priceMinor": 1449,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=900&q=80",
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=900&q=80"
+    ],
+    "categoryId": "beverages",
+    "variants": [
+      {
+        "id": "single-origin-coffee-250-g",
+        "name": "250 g",
+        "options": {
+          "size": "250 g"
+        }
+      },
+      {
+        "id": "single-origin-coffee-1-kg",
+        "name": "1 kg",
+        "options": {
+          "size": "1 kg"
+        },
+        "priceOverrideMinor": 4999
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-28T10:00:00.000Z"
+  },
+  {
+    "id": "fresh-orange-juice",
+    "name": "Fresh Orange Juice",
+    "description": "Cold-pressed from Valencia oranges the same day it ships. Never from concentrate.",
+    "priceMinor": 549,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=900&q=80",
+      "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=900&q=80"
+    ],
+    "categoryId": "beverages",
+    "variants": [
+      {
+        "id": "fresh-orange-juice-1-l",
+        "name": "1 L",
+        "options": {
+          "size": "1 L"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-12T10:00:00.000Z"
+  },
+  {
+    "id": "sparkling-water",
+    "name": "Sparkling Mineral Water",
+    "description": "Naturally carbonated spring water with fine, persistent bubbles.",
+    "priceMinor": 199,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=900&q=80",
+      "https://images.unsplash.com/photo-1616118132534-381148898bb4?w=900&q=80"
+    ],
+    "categoryId": "beverages",
+    "variants": [
+      {
+        "id": "sparkling-water-750-ml",
+        "name": "750 ml",
+        "options": {
+          "size": "750 ml"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "jasmine-green-tea",
+    "name": "Jasmine Green Tea",
+    "description": "Green tea scented with fresh jasmine blossoms over five nights. Twenty biodegradable bags.",
+    "priceMinor": 699,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=900&q=80",
+      "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?w=900&q=80"
+    ],
+    "categoryId": "beverages",
+    "variants": [
+      {
+        "id": "jasmine-green-tea-20-bags",
+        "name": "20 bags",
+        "options": {
+          "size": "20 bags"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-08T10:00:00.000Z"
+  },
+  {
+    "id": "dark-chocolate-bar",
+    "name": "Dark Chocolate 70%",
+    "description": "Small-batch chocolate from Ecuadorian cacao. Intense, fruity, and just bitter enough.",
+    "priceMinor": 449,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=900&q=80",
+      "https://images.unsplash.com/photo-1511381939415-e44015466834?w=900&q=80"
+    ],
+    "categoryId": "snacks",
+    "variants": [
+      {
+        "id": "dark-chocolate-bar-100-g",
+        "name": "100 g",
+        "options": {
+          "size": "100 g"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-15T10:00:00.000Z"
+  },
+  {
+    "id": "roasted-almonds",
+    "name": "Sea Salt Roasted Almonds",
+    "description": "California almonds slow-roasted and finished with flaky sea salt. Dangerously snackable.",
+    "priceMinor": 799,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=900&q=80",
+      "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=900&q=80"
+    ],
+    "categoryId": "snacks",
+    "variants": [
+      {
+        "id": "roasted-almonds-250-g",
+        "name": "250 g",
+        "options": {
+          "size": "250 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-05T10:00:00.000Z"
+  },
+  {
+    "id": "sea-salt-crisps",
+    "name": "Sea Salt Crisps",
+    "description": "Kettle-cooked potato crisps with skin on and nothing artificial. Loud in the best way.",
+    "priceMinor": 349,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=900&q=80",
+      "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?w=900&q=80"
+    ],
+    "categoryId": "snacks",
+    "variants": [
+      {
+        "id": "sea-salt-crisps-150-g",
+        "name": "150 g",
+        "options": {
+          "size": "150 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "id": "honey-granola",
+    "name": "Honey Almond Granola",
+    "description": "Oven-baked clusters of oats, almonds, and honey. Breakfast or straight from the bag.",
+    "priceMinor": 599,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1517093602195-b40af9688b46?w=900&q=80",
+      "https://images.unsplash.com/photo-1571748982800-fa51082c2224?w=900&q=80"
+    ],
+    "categoryId": "snacks",
+    "variants": [
+      {
+        "id": "honey-granola-300-g",
+        "name": "300 g",
+        "options": {
+          "size": "300 g"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-18T10:00:00.000Z"
+  }
+]

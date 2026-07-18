@@ -1,0 +1,689 @@
+[
+  {
+    "id": "studio-headphones",
+    "name": "Studio Over-Ear Headphones",
+    "description": "Closed-back over-ears with 40 hours of battery, adaptive noise cancellation, and a fold-flat frame.",
+    "priceMinor": 24900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=900&q=80"
+    ],
+    "categoryId": "audio",
+    "variants": [
+      {
+        "id": "studio-headphones-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "studio-headphones-silver",
+        "name": "Silver",
+        "options": {
+          "size": "One Size",
+          "color": "Silver"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-26T10:00:00.000Z"
+  },
+  {
+    "id": "true-wireless-earbuds",
+    "name": "True Wireless Earbuds",
+    "description": "Compact earbuds with wireless charging, transparency mode, and six hours per charge.",
+    "priceMinor": 12900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=900&q=80",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=900&q=80"
+    ],
+    "categoryId": "audio",
+    "variants": [
+      {
+        "id": "true-wireless-earbuds-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "true-wireless-earbuds-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-09T10:00:00.000Z"
+  },
+  {
+    "id": "bookshelf-speaker",
+    "name": "Bookshelf Speaker",
+    "description": "A warm, room-filling speaker in a real wood cabinet with Bluetooth and phono input.",
+    "priceMinor": 19900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=80",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=900&q=80"
+    ],
+    "categoryId": "audio",
+    "variants": [
+      {
+        "id": "bookshelf-speaker-charcoal",
+        "name": "Charcoal",
+        "options": {
+          "size": "One Size",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "bookshelf-speaker-walnut",
+        "name": "Walnut",
+        "options": {
+          "size": "One Size",
+          "color": "Walnut"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-12T10:00:00.000Z"
+  },
+  {
+    "id": "usb-microphone",
+    "name": "USB Condenser Microphone",
+    "description": "Broadcast-quality cardioid mic with onboard gain, mute, and a desktop stand. Plug and talk.",
+    "priceMinor": 15900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=900&q=80"
+    ],
+    "categoryId": "audio",
+    "variants": [
+      {
+        "id": "usb-microphone-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-20T10:00:00.000Z"
+  },
+  {
+    "id": "ultrabook-14",
+    "name": "14-inch Ultrabook",
+    "description": "A 1.2 kg aluminum laptop with a 2.8K display, 18-hour battery, and a fanless design.",
+    "priceMinor": 129900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=900&q=80"
+    ],
+    "categoryId": "computers",
+    "variants": [
+      {
+        "id": "ultrabook-14-256-gb",
+        "name": "256 GB",
+        "options": {
+          "size": "256 GB"
+        }
+      },
+      {
+        "id": "ultrabook-14-512-gb",
+        "name": "512 GB",
+        "options": {
+          "size": "512 GB"
+        },
+        "priceOverrideMinor": 149900
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-18T10:00:00.000Z"
+  },
+  {
+    "id": "mechanical-keyboard",
+    "name": "Mechanical Keyboard",
+    "description": "Hot-swappable switches, PBT keycaps, and a gasket-mounted deck that sounds as good as it feels.",
+    "priceMinor": 9900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900&q=80",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=900&q=80"
+    ],
+    "categoryId": "computers",
+    "variants": [
+      {
+        "id": "mechanical-keyboard-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      },
+      {
+        "id": "mechanical-keyboard-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "wireless-mouse",
+    "name": "Wireless Ergonomic Mouse",
+    "description": "A sculpted mouse with silent clicks, three-device pairing, and months of battery life.",
+    "priceMinor": 4900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=900&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=900&q=80"
+    ],
+    "categoryId": "computers",
+    "variants": [
+      {
+        "id": "wireless-mouse-graphite",
+        "name": "Graphite",
+        "options": {
+          "size": "One Size",
+          "color": "Graphite"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-25T10:00:00.000Z"
+  },
+  {
+    "id": "usb-c-dock",
+    "name": "USB-C Docking Station",
+    "description": "One cable to dual 4K displays, gigabit ethernet, and 100W passthrough charging.",
+    "priceMinor": 8900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=900&q=80",
+      "https://images.unsplash.com/photo-1625723044792-44de16ccb4e9?w=900&q=80"
+    ],
+    "categoryId": "computers",
+    "variants": [
+      {
+        "id": "usb-c-dock-space-gray",
+        "name": "Space Gray",
+        "options": {
+          "size": "One Size",
+          "color": "Space Gray"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-30T10:00:00.000Z"
+  },
+  {
+    "id": "smartphone-pro",
+    "name": "Smartphone Pro",
+    "description": "A 6.4-inch OLED flagship with a three-camera system, all-day battery, and five years of updates.",
+    "priceMinor": 99900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=900&q=80",
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=900&q=80"
+    ],
+    "categoryId": "phones-tablets",
+    "variants": [
+      {
+        "id": "smartphone-pro-128-gb-graphite",
+        "name": "128 GB / Graphite",
+        "options": {
+          "size": "128 GB",
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "smartphone-pro-128-gb-blue",
+        "name": "128 GB / Blue",
+        "options": {
+          "size": "128 GB",
+          "color": "Blue"
+        }
+      },
+      {
+        "id": "smartphone-pro-256-gb-graphite",
+        "name": "256 GB / Graphite",
+        "options": {
+          "size": "256 GB",
+          "color": "Graphite"
+        },
+        "priceOverrideMinor": 109900
+      },
+      {
+        "id": "smartphone-pro-256-gb-blue",
+        "name": "256 GB / Blue",
+        "options": {
+          "size": "256 GB",
+          "color": "Blue"
+        },
+        "priceOverrideMinor": 109900
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-30T10:00:00.000Z"
+  },
+  {
+    "id": "tablet-11",
+    "name": "11-inch Tablet",
+    "description": "A thin, bright 120Hz tablet for sketching, streaming, and split-screen work. Pencil sold separately.",
+    "priceMinor": 64900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=900&q=80"
+    ],
+    "categoryId": "phones-tablets",
+    "variants": [
+      {
+        "id": "tablet-11-128-gb",
+        "name": "128 GB",
+        "options": {
+          "size": "128 GB"
+        }
+      },
+      {
+        "id": "tablet-11-256-gb",
+        "name": "256 GB",
+        "options": {
+          "size": "256 GB"
+        },
+        "priceOverrideMinor": 74900
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-18T10:00:00.000Z"
+  },
+  {
+    "id": "e-reader",
+    "name": "E-Reader",
+    "description": "A glare-free 300 ppi display, adjustable warm light, and weeks of battery. Your library in one hand.",
+    "priceMinor": 14900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=900&q=80",
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=900&q=80"
+    ],
+    "categoryId": "phones-tablets",
+    "variants": [
+      {
+        "id": "e-reader-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-12T10:00:00.000Z"
+  },
+  {
+    "id": "magsafe-power-bank",
+    "name": "Magnetic Power Bank",
+    "description": "A slim 5,000 mAh battery that snaps to the back of your phone and charges wirelessly.",
+    "priceMinor": 5900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=900&q=80",
+      "https://images.unsplash.com/photo-1541877944-ac82a091518a?w=900&q=80"
+    ],
+    "categoryId": "phones-tablets",
+    "variants": [
+      {
+        "id": "magsafe-power-bank-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "magsafe-power-bank-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-11T10:00:00.000Z"
+  },
+  {
+    "id": "mirrorless-camera",
+    "name": "Mirrorless Camera",
+    "description": "A full-frame body with in-body stabilization, 4K60 video, and dual card slots. Lens not included.",
+    "priceMinor": 149900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=900&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=900&q=80"
+    ],
+    "categoryId": "cameras",
+    "variants": [
+      {
+        "id": "mirrorless-camera-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-05T10:00:00.000Z"
+  },
+  {
+    "id": "instant-camera",
+    "name": "Instant Camera",
+    "description": "Point, shoot, and watch the print develop in your hand. Auto exposure keeps every shot usable.",
+    "priceMinor": 9900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=900&q=80",
+      "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=900&q=80"
+    ],
+    "categoryId": "cameras",
+    "variants": [
+      {
+        "id": "instant-camera-blush",
+        "name": "Blush",
+        "options": {
+          "size": "One Size",
+          "color": "Blush"
+        }
+      },
+      {
+        "id": "instant-camera-sky",
+        "name": "Sky",
+        "options": {
+          "size": "One Size",
+          "color": "Sky"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-08T10:00:00.000Z"
+  },
+  {
+    "id": "action-camera",
+    "name": "4K Action Camera",
+    "description": "Waterproof to 10 m with horizon lock and hypersmooth stabilization. Built for the mountain.",
+    "priceMinor": 39900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1518183214770-9cffbec72538?w=900&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=900&q=80"
+    ],
+    "categoryId": "cameras",
+    "variants": [
+      {
+        "id": "action-camera-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-25T10:00:00.000Z"
+  },
+  {
+    "id": "travel-tripod",
+    "name": "Carbon Travel Tripod",
+    "description": "Folds to 40 cm, weighs under a kilo, and holds steady in wind. A ball head is included.",
+    "priceMinor": 6900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1542567455-cd733f23fbb1?w=900&q=80",
+      "https://images.unsplash.com/photo-1617953141905-b27fb1f17d88?w=900&q=80"
+    ],
+    "categoryId": "cameras",
+    "variants": [
+      {
+        "id": "travel-tripod-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-14T10:00:00.000Z"
+  },
+  {
+    "id": "wireless-controller",
+    "name": "Wireless Controller",
+    "description": "Low-latency wireless with hall-effect sticks, remappable paddles, and a 40-hour battery.",
+    "priceMinor": 6900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=900&q=80",
+      "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=900&q=80"
+    ],
+    "categoryId": "gaming",
+    "variants": [
+      {
+        "id": "wireless-controller-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "wireless-controller-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-10T10:00:00.000Z"
+  },
+  {
+    "id": "gaming-headset",
+    "name": "Gaming Headset",
+    "description": "Spatial audio, a flip-to-mute mic, and memory foam that survives marathon sessions.",
+    "priceMinor": 8900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?w=900&q=80",
+      "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=900&q=80"
+    ],
+    "categoryId": "gaming",
+    "variants": [
+      {
+        "id": "gaming-headset-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-30T10:00:00.000Z"
+  },
+  {
+    "id": "vr-headset",
+    "name": "VR Headset",
+    "description": "Standalone VR with inside-out tracking, pancake lenses, and a growing native library.",
+    "priceMinor": 39900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=900&q=80",
+      "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=900&q=80"
+    ],
+    "categoryId": "gaming",
+    "variants": [
+      {
+        "id": "vr-headset-128-gb",
+        "name": "128 GB",
+        "options": {
+          "size": "128 GB"
+        }
+      },
+      {
+        "id": "vr-headset-256-gb",
+        "name": "256 GB",
+        "options": {
+          "size": "256 GB"
+        },
+        "priceOverrideMinor": 46900
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "id": "retro-console",
+    "name": "Retro Mini Console",
+    "description": "Fifty classics built in, two wired controllers, and HDMI out. Instant nostalgia.",
+    "priceMinor": 9900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=900&q=80",
+      "https://images.unsplash.com/photo-1486572788966-cfd3df1f5b42?w=900&q=80"
+    ],
+    "categoryId": "gaming",
+    "variants": [
+      {
+        "id": "retro-console-gray",
+        "name": "Gray",
+        "options": {
+          "size": "One Size",
+          "color": "Gray"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "smart-speaker",
+    "name": "Smart Speaker",
+    "description": "Room-adaptive sound with a built-in voice assistant and a physical mic-off switch.",
+    "priceMinor": 9900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1543512214-318c7553f230?w=900&q=80",
+      "https://images.unsplash.com/photo-1512446816042-444d641267d4?w=900&q=80"
+    ],
+    "categoryId": "smart-home",
+    "variants": [
+      {
+        "id": "smart-speaker-charcoal",
+        "name": "Charcoal",
+        "options": {
+          "size": "One Size",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "smart-speaker-chalk",
+        "name": "Chalk",
+        "options": {
+          "size": "One Size",
+          "color": "Chalk"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-14T10:00:00.000Z"
+  },
+  {
+    "id": "smart-bulb-kit",
+    "name": "Smart Bulb Starter Kit",
+    "description": "Two color-changing bulbs and a hub. Schedules, scenes, and sunrise alarms included.",
+    "priceMinor": 4900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=900&q=80",
+      "https://images.unsplash.com/photo-1550985616-10810253b84d?w=900&q=80"
+    ],
+    "categoryId": "smart-home",
+    "variants": [
+      {
+        "id": "smart-bulb-kit-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "security-camera",
+    "name": "Indoor Security Camera",
+    "description": "2K video with night vision, person alerts, and local storage. No subscription required.",
+    "priceMinor": 12900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1558002038-1055907df827?w=900&q=80",
+      "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=900&q=80"
+    ],
+    "categoryId": "smart-home",
+    "variants": [
+      {
+        "id": "security-camera-white",
+        "name": "White",
+        "options": {
+          "size": "One Size",
+          "color": "White"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-06T10:00:00.000Z"
+  },
+  {
+    "id": "robot-vacuum",
+    "name": "Robot Vacuum",
+    "description": "Lidar mapping, 4,000 Pa suction, and self-emptying for up to 60 days. Floors on autopilot.",
+    "priceMinor": 39900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?w=900&q=80",
+      "https://images.unsplash.com/photo-1603618090561-412154b4bd1b?w=900&q=80"
+    ],
+    "categoryId": "smart-home",
+    "variants": [
+      {
+        "id": "robot-vacuum-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-08T10:00:00.000Z"
+  }
+]

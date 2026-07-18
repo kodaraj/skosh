@@ -1,0 +1,38 @@
+[
+  {
+    "id": "produce",
+    "name": "Produce",
+    "slug": "produce",
+    "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=900&q=80"
+  },
+  {
+    "id": "bakery",
+    "name": "Bakery",
+    "slug": "bakery",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=900&q=80"
+  },
+  {
+    "id": "dairy-eggs",
+    "name": "Dairy and Eggs",
+    "slug": "dairy-eggs",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=900&q=80"
+  },
+  {
+    "id": "pantry",
+    "name": "Pantry",
+    "slug": "pantry",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=900&q=80"
+  },
+  {
+    "id": "beverages",
+    "name": "Beverages",
+    "slug": "beverages",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=900&q=80"
+  },
+  {
+    "id": "snacks",
+    "name": "Snacks",
+    "slug": "snacks",
+    "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=900&q=80"
+  }
+]

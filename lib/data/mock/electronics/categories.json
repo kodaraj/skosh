@@ -1,0 +1,38 @@
+[
+  {
+    "id": "audio",
+    "name": "Audio",
+    "slug": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80"
+  },
+  {
+    "id": "computers",
+    "name": "Computers",
+    "slug": "computers",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80"
+  },
+  {
+    "id": "phones-tablets",
+    "name": "Phones and Tablets",
+    "slug": "phones-tablets",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=900&q=80"
+  },
+  {
+    "id": "cameras",
+    "name": "Cameras",
+    "slug": "cameras",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=900&q=80"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "slug": "gaming",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=900&q=80"
+  },
+  {
+    "id": "smart-home",
+    "name": "Smart Home",
+    "slug": "smart-home",
+    "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=900&q=80"
+  }
+]

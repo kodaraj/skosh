@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "relaxed-linen-shirt",
+    "name": "Relaxed Linen Shirt",
+    "description": "A breezy button-down cut from washed European linen. Slightly oversized through the body with a curved hem that works tucked or loose.",
+    "priceMinor": 7800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=900&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=900&q=80"
+    ],
+    "categoryId": "women",
+    "variants": [
+      {
+        "id": "relaxed-linen-shirt-xs-white",
+        "name": "XS / White",
+        "options": {
+          "size": "XS",
+          "color": "White"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-xs-sand",
+        "name": "XS / Sand",
+        "options": {
+          "size": "XS",
+          "color": "Sand"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-s-white",
+        "name": "S / White",
+        "options": {
+          "size": "S",
+          "color": "White"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-s-sand",
+        "name": "S / Sand",
+        "options": {
+          "size": "S",
+          "color": "Sand"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-m-white",
+        "name": "M / White",
+        "options": {
+          "size": "M",
+          "color": "White"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-m-sand",
+        "name": "M / Sand",
+        "options": {
+          "size": "M",
+          "color": "Sand"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-l-white",
+        "name": "L / White",
+        "options": {
+          "size": "L",
+          "color": "White"
+        }
+      },
+      {
+        "id": "relaxed-linen-shirt-l-sand",
+        "name": "L / Sand",
+        "options": {
+          "size": "L",
+          "color": "Sand"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-28T10:00:00.000Z"
+  },
+  {
+    "id": "ribbed-cotton-tee",
+    "name": "Ribbed Cotton Tee",
+    "description": "A close-fitting ribbed tee in soft organic cotton. The kind of layer you end up owning in three colors.",
+    "priceMinor": 3200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=900&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=900&q=80"
+    ],
+    "categoryId": "women",
+    "variants": [
+      {
+        "id": "ribbed-cotton-tee-xs-black",
+        "name": "XS / Black",
+        "options": {
+          "size": "XS",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-xs-ivory",
+        "name": "XS / Ivory",
+        "options": {
+          "size": "XS",
+          "color": "Ivory"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-s-black",
+        "name": "S / Black",
+        "options": {
+          "size": "S",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-s-ivory",
+        "name": "S / Ivory",
+        "options": {
+          "size": "S",
+          "color": "Ivory"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-m-black",
+        "name": "M / Black",
+        "options": {
+          "size": "M",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-m-ivory",
+        "name": "M / Ivory",
+        "options": {
+          "size": "M",
+          "color": "Ivory"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-l-black",
+        "name": "L / Black",
+        "options": {
+          "size": "L",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "ribbed-cotton-tee-l-ivory",
+        "name": "L / Ivory",
+        "options": {
+          "size": "L",
+          "color": "Ivory"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-05T10:00:00.000Z"
+  },
+  {
+    "id": "high-rise-straight-jeans",
+    "name": "High-Rise Straight Jeans",
+    "description": "Rigid denim with a high rise and a clean straight leg that breaks just above the ankle. Fades beautifully with wear.",
+    "priceMinor": 9800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=900&q=80",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=900&q=80"
+    ],
+    "categoryId": "women",
+    "variants": [
+      {
+        "id": "high-rise-straight-jeans-24-indigo",
+        "name": "24 / Indigo",
+        "options": {
+          "size": "24",
+          "color": "Indigo"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-24-washed-black",
+        "name": "24 / Washed Black",
+        "options": {
+          "size": "24",
+          "color": "Washed Black"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-26-indigo",
+        "name": "26 / Indigo",
+        "options": {
+          "size": "26",
+          "color": "Indigo"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-26-washed-black",
+        "name": "26 / Washed Black",
+        "options": {
+          "size": "26",
+          "color": "Washed Black"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-28-indigo",
+        "name": "28 / Indigo",
+        "options": {
+          "size": "28",
+          "color": "Indigo"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-28-washed-black",
+        "name": "28 / Washed Black",
+        "options": {
+          "size": "28",
+          "color": "Washed Black"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-30-indigo",
+        "name": "30 / Indigo",
+        "options": {
+          "size": "30",
+          "color": "Indigo"
+        }
+      },
+      {
+        "id": "high-rise-straight-jeans-30-washed-black",
+        "name": "30 / Washed Black",
+        "options": {
+          "size": "30",
+          "color": "Washed Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-14T10:00:00.000Z"
+  },
+  {
+    "id": "pleated-satin-skirt",
+    "name": "Pleated Satin Skirt",
+    "description": "A fluid midi skirt in knife-pleated satin that moves with every step. Sits at the natural waist with a hidden zip.",
+    "priceMinor": 11200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=900&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=900&q=80"
+    ],
+    "categoryId": "women",
+    "variants": [
+      {
+        "id": "pleated-satin-skirt-xs-champagne",
+        "name": "XS / Champagne",
+        "options": {
+          "size": "XS",
+          "color": "Champagne"
+        }
+      },
+      {
+        "id": "pleated-satin-skirt-s-champagne",
+        "name": "S / Champagne",
+        "options": {
+          "size": "S",
+          "color": "Champagne"
+        }
+      },
+      {
+        "id": "pleated-satin-skirt-m-champagne",
+        "name": "M / Champagne",
+        "options": {
+          "size": "M",
+          "color": "Champagne"
+        }
+      },
+      {
+        "id": "pleated-satin-skirt-l-champagne",
+        "name": "L / Champagne",
+        "options": {
+          "size": "L",
+          "color": "Champagne"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-19T10:00:00.000Z"
+  },
+  {
+    "id": "garment-dyed-tee",
+    "name": "Garment-Dyed Tee",
+    "description": "A heavyweight cotton tee, garment dyed for a lived-in tone that only gets better with washing.",
+    "priceMinor": 3600,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=900&q=80"
+    ],
+    "categoryId": "men",
+    "variants": [
+      {
+        "id": "garment-dyed-tee-s-faded-navy",
+        "name": "S / Faded Navy",
+        "options": {
+          "size": "S",
+          "color": "Faded Navy"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-s-clay",
+        "name": "S / Clay",
+        "options": {
+          "size": "S",
+          "color": "Clay"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-m-faded-navy",
+        "name": "M / Faded Navy",
+        "options": {
+          "size": "M",
+          "color": "Faded Navy"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-m-clay",
+        "name": "M / Clay",
+        "options": {
+          "size": "M",
+          "color": "Clay"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-l-faded-navy",
+        "name": "L / Faded Navy",
+        "options": {
+          "size": "L",
+          "color": "Faded Navy"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-l-clay",
+        "name": "L / Clay",
+        "options": {
+          "size": "L",
+          "color": "Clay"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-xl-faded-navy",
+        "name": "XL / Faded Navy",
+        "options": {
+          "size": "XL",
+          "color": "Faded Navy"
+        }
+      },
+      {
+        "id": "garment-dyed-tee-xl-clay",
+        "name": "XL / Clay",
+        "options": {
+          "size": "XL",
+          "color": "Clay"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-11T10:00:00.000Z"
+  },
+  {
+    "id": "oxford-button-down",
+    "name": "Oxford Button-Down",
+    "description": "The classic oxford, done properly. Dense basketweave cotton, a soft unlined collar, and mother-of-pearl buttons.",
+    "priceMinor": 8800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=900&q=80",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=900&q=80"
+    ],
+    "categoryId": "men",
+    "variants": [
+      {
+        "id": "oxford-button-down-s-white",
+        "name": "S / White",
+        "options": {
+          "size": "S",
+          "color": "White"
+        }
+      },
+      {
+        "id": "oxford-button-down-s-blue-stripe",
+        "name": "S / Blue Stripe",
+        "options": {
+          "size": "S",
+          "color": "Blue Stripe"
+        }
+      },
+      {
+        "id": "oxford-button-down-m-white",
+        "name": "M / White",
+        "options": {
+          "size": "M",
+          "color": "White"
+        }
+      },
+      {
+        "id": "oxford-button-down-m-blue-stripe",
+        "name": "M / Blue Stripe",
+        "options": {
+          "size": "M",
+          "color": "Blue Stripe"
+        }
+      },
+      {
+        "id": "oxford-button-down-l-white",
+        "name": "L / White",
+        "options": {
+          "size": "L",
+          "color": "White"
+        }
+      },
+      {
+        "id": "oxford-button-down-l-blue-stripe",
+        "name": "L / Blue Stripe",
+        "options": {
+          "size": "L",
+          "color": "Blue Stripe"
+        }
+      },
+      {
+        "id": "oxford-button-down-xl-white",
+        "name": "XL / White",
+        "options": {
+          "size": "XL",
+          "color": "White"
+        }
+      },
+      {
+        "id": "oxford-button-down-xl-blue-stripe",
+        "name": "XL / Blue Stripe",
+        "options": {
+          "size": "XL",
+          "color": "Blue Stripe"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-22T10:00:00.000Z"
+  },
+  {
+    "id": "merino-crewneck",
+    "name": "Merino Crewneck Sweater",
+    "description": "Fine-gauge extrafine merino knitted in a classic crewneck. Light enough for offices, warm enough for evenings.",
+    "priceMinor": 12800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=900&q=80",
+      "https://images.unsplash.com/photo-1610384104075-e05c8cf200c3?w=900&q=80"
+    ],
+    "categoryId": "men",
+    "variants": [
+      {
+        "id": "merino-crewneck-s-charcoal",
+        "name": "S / Charcoal",
+        "options": {
+          "size": "S",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "merino-crewneck-s-oatmeal",
+        "name": "S / Oatmeal",
+        "options": {
+          "size": "S",
+          "color": "Oatmeal"
+        }
+      },
+      {
+        "id": "merino-crewneck-m-charcoal",
+        "name": "M / Charcoal",
+        "options": {
+          "size": "M",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "merino-crewneck-m-oatmeal",
+        "name": "M / Oatmeal",
+        "options": {
+          "size": "M",
+          "color": "Oatmeal"
+        }
+      },
+      {
+        "id": "merino-crewneck-l-charcoal",
+        "name": "L / Charcoal",
+        "options": {
+          "size": "L",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "merino-crewneck-l-oatmeal",
+        "name": "L / Oatmeal",
+        "options": {
+          "size": "L",
+          "color": "Oatmeal"
+        }
+      },
+      {
+        "id": "merino-crewneck-xl-charcoal",
+        "name": "XL / Charcoal",
+        "options": {
+          "size": "XL",
+          "color": "Charcoal"
+        }
+      },
+      {
+        "id": "merino-crewneck-xl-oatmeal",
+        "name": "XL / Oatmeal",
+        "options": {
+          "size": "XL",
+          "color": "Oatmeal"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-02-08T10:00:00.000Z"
+  },
+  {
+    "id": "pleated-chino-trousers",
+    "name": "Pleated Chino Trousers",
+    "description": "Single-pleat chinos with a tapered leg and a touch of stretch. Smart with loafers, easy with sneakers.",
+    "priceMinor": 7200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=900&q=80",
+      "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=900&q=80"
+    ],
+    "categoryId": "men",
+    "variants": [
+      {
+        "id": "pleated-chino-trousers-30-stone",
+        "name": "30 / Stone",
+        "options": {
+          "size": "30",
+          "color": "Stone"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-30-olive",
+        "name": "30 / Olive",
+        "options": {
+          "size": "30",
+          "color": "Olive"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-32-stone",
+        "name": "32 / Stone",
+        "options": {
+          "size": "32",
+          "color": "Stone"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-32-olive",
+        "name": "32 / Olive",
+        "options": {
+          "size": "32",
+          "color": "Olive"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-34-stone",
+        "name": "34 / Stone",
+        "options": {
+          "size": "34",
+          "color": "Stone"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-34-olive",
+        "name": "34 / Olive",
+        "options": {
+          "size": "34",
+          "color": "Olive"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-36-stone",
+        "name": "36 / Stone",
+        "options": {
+          "size": "36",
+          "color": "Stone"
+        }
+      },
+      {
+        "id": "pleated-chino-trousers-36-olive",
+        "name": "36 / Olive",
+        "options": {
+          "size": "36",
+          "color": "Olive"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-30T10:00:00.000Z"
+  },
+  {
+    "id": "wrap-midi-dress",
+    "name": "Wrap Midi Dress",
+    "description": "A true wrap dress in crinkled viscose with a flattering V-neck and a skirt that falls to mid-calf.",
+    "priceMinor": 12400,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=900&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=900&q=80"
+    ],
+    "categoryId": "dresses",
+    "variants": [
+      {
+        "id": "wrap-midi-dress-xs-black",
+        "name": "XS / Black",
+        "options": {
+          "size": "XS",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-xs-terracotta",
+        "name": "XS / Terracotta",
+        "options": {
+          "size": "XS",
+          "color": "Terracotta"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-s-black",
+        "name": "S / Black",
+        "options": {
+          "size": "S",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-s-terracotta",
+        "name": "S / Terracotta",
+        "options": {
+          "size": "S",
+          "color": "Terracotta"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-m-black",
+        "name": "M / Black",
+        "options": {
+          "size": "M",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-m-terracotta",
+        "name": "M / Terracotta",
+        "options": {
+          "size": "M",
+          "color": "Terracotta"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-l-black",
+        "name": "L / Black",
+        "options": {
+          "size": "L",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "wrap-midi-dress-l-terracotta",
+        "name": "L / Terracotta",
+        "options": {
+          "size": "L",
+          "color": "Terracotta"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-06-20T10:00:00.000Z"
+  },
+  {
+    "id": "linen-sundress",
+    "name": "Linen Sundress",
+    "description": "An easy A-line sundress in midweight linen with adjustable straps and deep side pockets.",
+    "priceMinor": 9200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1502716119720-b23a93e5fe1b?w=900&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=900&q=80"
+    ],
+    "categoryId": "dresses",
+    "variants": [
+      {
+        "id": "linen-sundress-xs-natural",
+        "name": "XS / Natural",
+        "options": {
+          "size": "XS",
+          "color": "Natural"
+        }
+      },
+      {
+        "id": "linen-sundress-xs-sage",
+        "name": "XS / Sage",
+        "options": {
+          "size": "XS",
+          "color": "Sage"
+        }
+      },
+      {
+        "id": "linen-sundress-s-natural",
+        "name": "S / Natural",
+        "options": {
+          "size": "S",
+          "color": "Natural"
+        }
+      },
+      {
+        "id": "linen-sundress-s-sage",
+        "name": "S / Sage",
+        "options": {
+          "size": "S",
+          "color": "Sage"
+        }
+      },
+      {
+        "id": "linen-sundress-m-natural",
+        "name": "M / Natural",
+        "options": {
+          "size": "M",
+          "color": "Natural"
+        }
+      },
+      {
+        "id": "linen-sundress-m-sage",
+        "name": "M / Sage",
+        "options": {
+          "size": "M",
+          "color": "Sage"
+        }
+      },
+      {
+        "id": "linen-sundress-l-natural",
+        "name": "L / Natural",
+        "options": {
+          "size": "L",
+          "color": "Natural"
+        }
+      },
+      {
+        "id": "linen-sundress-l-sage",
+        "name": "L / Sage",
+        "options": {
+          "size": "L",
+          "color": "Sage"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-08T10:00:00.000Z"
+  },
+  {
+    "id": "pleated-evening-dress",
+    "name": "Pleated Evening Dress",
+    "description": "Fine sunray pleats from shoulder to hem in a floor-skimming silhouette. Quietly dramatic.",
+    "priceMinor": 16800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=900&q=80",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=80"
+    ],
+    "categoryId": "dresses",
+    "variants": [
+      {
+        "id": "pleated-evening-dress-xs-midnight",
+        "name": "XS / Midnight",
+        "options": {
+          "size": "XS",
+          "color": "Midnight"
+        }
+      },
+      {
+        "id": "pleated-evening-dress-s-midnight",
+        "name": "S / Midnight",
+        "options": {
+          "size": "S",
+          "color": "Midnight"
+        }
+      },
+      {
+        "id": "pleated-evening-dress-m-midnight",
+        "name": "M / Midnight",
+        "options": {
+          "size": "M",
+          "color": "Midnight"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-01-25T10:00:00.000Z"
+  },
+  {
+    "id": "knit-sweater-dress",
+    "name": "Knit Sweater Dress",
+    "description": "A ribbed knit dress that skims rather than clings, with a mock neck and side slits for ease.",
+    "priceMinor": 10800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=900&q=80",
+      "https://images.unsplash.com/photo-1495385794356-15371f348c31?w=900&q=80"
+    ],
+    "categoryId": "dresses",
+    "variants": [
+      {
+        "id": "knit-sweater-dress-xs-camel",
+        "name": "XS / Camel",
+        "options": {
+          "size": "XS",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-xs-black",
+        "name": "XS / Black",
+        "options": {
+          "size": "XS",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-s-camel",
+        "name": "S / Camel",
+        "options": {
+          "size": "S",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-s-black",
+        "name": "S / Black",
+        "options": {
+          "size": "S",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-m-camel",
+        "name": "M / Camel",
+        "options": {
+          "size": "M",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-m-black",
+        "name": "M / Black",
+        "options": {
+          "size": "M",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-l-camel",
+        "name": "L / Camel",
+        "options": {
+          "size": "L",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "knit-sweater-dress-l-black",
+        "name": "L / Black",
+        "options": {
+          "size": "L",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-02-27T10:00:00.000Z"
+  },
+  {
+    "id": "belted-trench-coat",
+    "name": "Belted Trench Coat",
+    "description": "A double-breasted trench in bonded cotton twill with storm flaps and a waist belt. The forever coat.",
+    "priceMinor": 19800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1544022613-e87ca75a784a?w=900&q=80",
+      "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=900&q=80"
+    ],
+    "categoryId": "outerwear",
+    "variants": [
+      {
+        "id": "belted-trench-coat-xs-khaki",
+        "name": "XS / Khaki",
+        "options": {
+          "size": "XS",
+          "color": "Khaki"
+        }
+      },
+      {
+        "id": "belted-trench-coat-s-khaki",
+        "name": "S / Khaki",
+        "options": {
+          "size": "S",
+          "color": "Khaki"
+        }
+      },
+      {
+        "id": "belted-trench-coat-m-khaki",
+        "name": "M / Khaki",
+        "options": {
+          "size": "M",
+          "color": "Khaki"
+        }
+      },
+      {
+        "id": "belted-trench-coat-l-khaki",
+        "name": "L / Khaki",
+        "options": {
+          "size": "L",
+          "color": "Khaki"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-03-08T10:00:00.000Z"
+  },
+  {
+    "id": "cropped-denim-jacket",
+    "name": "Cropped Denim Jacket",
+    "description": "A boxy, cropped trucker jacket in rigid denim. Cut to sit right at the waistband of high-rise jeans.",
+    "priceMinor": 9800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1527016021513-b09758b777bd?w=900&q=80",
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=900&q=80"
+    ],
+    "categoryId": "outerwear",
+    "variants": [
+      {
+        "id": "cropped-denim-jacket-xs-mid-wash",
+        "name": "XS / Mid Wash",
+        "options": {
+          "size": "XS",
+          "color": "Mid Wash"
+        }
+      },
+      {
+        "id": "cropped-denim-jacket-s-mid-wash",
+        "name": "S / Mid Wash",
+        "options": {
+          "size": "S",
+          "color": "Mid Wash"
+        }
+      },
+      {
+        "id": "cropped-denim-jacket-m-mid-wash",
+        "name": "M / Mid Wash",
+        "options": {
+          "size": "M",
+          "color": "Mid Wash"
+        }
+      },
+      {
+        "id": "cropped-denim-jacket-l-mid-wash",
+        "name": "L / Mid Wash",
+        "options": {
+          "size": "L",
+          "color": "Mid Wash"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-02T10:00:00.000Z"
+  },
+  {
+    "id": "leather-biker-jacket",
+    "name": "Leather Biker Jacket",
+    "description": "Vegetable-tanned lambskin with an asymmetric zip and just enough hardware. Breaks in like a favorite record.",
+    "priceMinor": 24800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900&q=80",
+      "https://images.unsplash.com/photo-1520975661595-6453be3f7070?w=900&q=80"
+    ],
+    "categoryId": "outerwear",
+    "variants": [
+      {
+        "id": "leather-biker-jacket-s-black",
+        "name": "S / Black",
+        "options": {
+          "size": "S",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "leather-biker-jacket-s-oxblood",
+        "name": "S / Oxblood",
+        "options": {
+          "size": "S",
+          "color": "Oxblood"
+        },
+        "priceOverrideMinor": 26800
+      },
+      {
+        "id": "leather-biker-jacket-m-black",
+        "name": "M / Black",
+        "options": {
+          "size": "M",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "leather-biker-jacket-m-oxblood",
+        "name": "M / Oxblood",
+        "options": {
+          "size": "M",
+          "color": "Oxblood"
+        },
+        "priceOverrideMinor": 26800
+      },
+      {
+        "id": "leather-biker-jacket-l-black",
+        "name": "L / Black",
+        "options": {
+          "size": "L",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "leather-biker-jacket-l-oxblood",
+        "name": "L / Oxblood",
+        "options": {
+          "size": "L",
+          "color": "Oxblood"
+        },
+        "priceOverrideMinor": 26800
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "wool-overcoat",
+    "name": "Wool Overcoat",
+    "description": "A single-breasted overcoat in brushed Italian wool, cut long with a clean shoulder. Tailoring without the fuss.",
+    "priceMinor": 22800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=900&q=80",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=900&q=80"
+    ],
+    "categoryId": "outerwear",
+    "variants": [
+      {
+        "id": "wool-overcoat-s-graphite",
+        "name": "S / Graphite",
+        "options": {
+          "size": "S",
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "wool-overcoat-s-camel",
+        "name": "S / Camel",
+        "options": {
+          "size": "S",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "wool-overcoat-m-graphite",
+        "name": "M / Graphite",
+        "options": {
+          "size": "M",
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "wool-overcoat-m-camel",
+        "name": "M / Camel",
+        "options": {
+          "size": "M",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "wool-overcoat-l-graphite",
+        "name": "L / Graphite",
+        "options": {
+          "size": "L",
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "wool-overcoat-l-camel",
+        "name": "L / Camel",
+        "options": {
+          "size": "L",
+          "color": "Camel"
+        }
+      },
+      {
+        "id": "wool-overcoat-xl-graphite",
+        "name": "XL / Graphite",
+        "options": {
+          "size": "XL",
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "wool-overcoat-xl-camel",
+        "name": "XL / Camel",
+        "options": {
+          "size": "XL",
+          "color": "Camel"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-01-12T10:00:00.000Z"
+  },
+  {
+    "id": "minimal-leather-sneakers",
+    "name": "Minimal Leather Sneakers",
+    "description": "Clean court sneakers in full-grain leather on a cupsole, with zero visible branding.",
+    "priceMinor": 12800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=900&q=80"
+    ],
+    "categoryId": "shoes",
+    "variants": [
+      {
+        "id": "minimal-leather-sneakers-38-white",
+        "name": "38 / White",
+        "options": {
+          "size": "38",
+          "color": "White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-38-off-white",
+        "name": "38 / Off-White",
+        "options": {
+          "size": "38",
+          "color": "Off-White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-40-white",
+        "name": "40 / White",
+        "options": {
+          "size": "40",
+          "color": "White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-40-off-white",
+        "name": "40 / Off-White",
+        "options": {
+          "size": "40",
+          "color": "Off-White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-42-white",
+        "name": "42 / White",
+        "options": {
+          "size": "42",
+          "color": "White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-42-off-white",
+        "name": "42 / Off-White",
+        "options": {
+          "size": "42",
+          "color": "Off-White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-44-white",
+        "name": "44 / White",
+        "options": {
+          "size": "44",
+          "color": "White"
+        }
+      },
+      {
+        "id": "minimal-leather-sneakers-44-off-white",
+        "name": "44 / Off-White",
+        "options": {
+          "size": "44",
+          "color": "Off-White"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-05-21T10:00:00.000Z"
+  },
+  {
+    "id": "suede-chelsea-boots",
+    "name": "Suede Chelsea Boots",
+    "description": "Almond-toe Chelsea boots in water-resistant suede with elastic gussets and a stacked heel.",
+    "priceMinor": 16800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=900&q=80",
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=900&q=80"
+    ],
+    "categoryId": "shoes",
+    "variants": [
+      {
+        "id": "suede-chelsea-boots-38-taupe",
+        "name": "38 / Taupe",
+        "options": {
+          "size": "38",
+          "color": "Taupe"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-38-dark-brown",
+        "name": "38 / Dark Brown",
+        "options": {
+          "size": "38",
+          "color": "Dark Brown"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-40-taupe",
+        "name": "40 / Taupe",
+        "options": {
+          "size": "40",
+          "color": "Taupe"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-40-dark-brown",
+        "name": "40 / Dark Brown",
+        "options": {
+          "size": "40",
+          "color": "Dark Brown"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-42-taupe",
+        "name": "42 / Taupe",
+        "options": {
+          "size": "42",
+          "color": "Taupe"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-42-dark-brown",
+        "name": "42 / Dark Brown",
+        "options": {
+          "size": "42",
+          "color": "Dark Brown"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-44-taupe",
+        "name": "44 / Taupe",
+        "options": {
+          "size": "44",
+          "color": "Taupe"
+        }
+      },
+      {
+        "id": "suede-chelsea-boots-44-dark-brown",
+        "name": "44 / Dark Brown",
+        "options": {
+          "size": "44",
+          "color": "Dark Brown"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-02-14T10:00:00.000Z"
+  },
+  {
+    "id": "canvas-high-tops",
+    "name": "Canvas High-Tops",
+    "description": "High-top sneakers in heavy duck canvas with a vulcanized sole. A blank slate for everything you wear.",
+    "priceMinor": 6800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=900&q=80",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=900&q=80"
+    ],
+    "categoryId": "shoes",
+    "variants": [
+      {
+        "id": "canvas-high-tops-37-ecru",
+        "name": "37 / Ecru",
+        "options": {
+          "size": "37",
+          "color": "Ecru"
+        }
+      },
+      {
+        "id": "canvas-high-tops-37-black",
+        "name": "37 / Black",
+        "options": {
+          "size": "37",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "canvas-high-tops-39-ecru",
+        "name": "39 / Ecru",
+        "options": {
+          "size": "39",
+          "color": "Ecru"
+        }
+      },
+      {
+        "id": "canvas-high-tops-39-black",
+        "name": "39 / Black",
+        "options": {
+          "size": "39",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "canvas-high-tops-41-ecru",
+        "name": "41 / Ecru",
+        "options": {
+          "size": "41",
+          "color": "Ecru"
+        }
+      },
+      {
+        "id": "canvas-high-tops-41-black",
+        "name": "41 / Black",
+        "options": {
+          "size": "41",
+          "color": "Black"
+        }
+      },
+      {
+        "id": "canvas-high-tops-43-ecru",
+        "name": "43 / Ecru",
+        "options": {
+          "size": "43",
+          "color": "Ecru"
+        }
+      },
+      {
+        "id": "canvas-high-tops-43-black",
+        "name": "43 / Black",
+        "options": {
+          "size": "43",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-06-25T10:00:00.000Z"
+  },
+  {
+    "id": "strappy-heeled-sandals",
+    "name": "Strappy Heeled Sandals",
+    "description": "Barely-there sandals with slim leather straps and a sculpted 70mm heel you can actually walk in.",
+    "priceMinor": 9800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1596703263926-eb0762ee17e4?w=900&q=80",
+      "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?w=900&q=80"
+    ],
+    "categoryId": "shoes",
+    "variants": [
+      {
+        "id": "strappy-heeled-sandals-36-tan",
+        "name": "36 / Tan",
+        "options": {
+          "size": "36",
+          "color": "Tan"
+        }
+      },
+      {
+        "id": "strappy-heeled-sandals-37-tan",
+        "name": "37 / Tan",
+        "options": {
+          "size": "37",
+          "color": "Tan"
+        }
+      },
+      {
+        "id": "strappy-heeled-sandals-38-tan",
+        "name": "38 / Tan",
+        "options": {
+          "size": "38",
+          "color": "Tan"
+        }
+      },
+      {
+        "id": "strappy-heeled-sandals-39-tan",
+        "name": "39 / Tan",
+        "options": {
+          "size": "39",
+          "color": "Tan"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-07-12T10:00:00.000Z"
+  },
+  {
+    "id": "structured-leather-tote",
+    "name": "Structured Leather Tote",
+    "description": "A clean-lined tote in pebbled leather that holds a 13-inch laptop flat. Unlined, rivet-reinforced, built to age well.",
+    "priceMinor": 14800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80"
+    ],
+    "categoryId": "accessories",
+    "variants": [
+      {
+        "id": "structured-leather-tote-tan",
+        "name": "Tan",
+        "options": {
+          "size": "One Size",
+          "color": "Tan"
+        }
+      },
+      {
+        "id": "structured-leather-tote-black",
+        "name": "Black",
+        "options": {
+          "size": "One Size",
+          "color": "Black"
+        }
+      }
+    ],
+    "featured": true,
+    "createdAt": "2026-04-28T10:00:00.000Z"
+  },
+  {
+    "id": "minimalist-watch",
+    "name": "Minimalist Watch",
+    "description": "A 36mm brushed steel case, domed sapphire glass, and an Italian leather strap. Tells the time, nothing else.",
+    "priceMinor": 15800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=900&q=80"
+    ],
+    "categoryId": "accessories",
+    "variants": [
+      {
+        "id": "minimalist-watch-black-strap",
+        "name": "Black Strap",
+        "options": {
+          "size": "One Size",
+          "color": "Black Strap"
+        }
+      },
+      {
+        "id": "minimalist-watch-tan-strap",
+        "name": "Tan Strap",
+        "options": {
+          "size": "One Size",
+          "color": "Tan Strap"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-03-15T10:00:00.000Z"
+  },
+  {
+    "id": "acetate-sunglasses",
+    "name": "Acetate Sunglasses",
+    "description": "Hand-polished acetate frames with UV400 lenses, somewhere between round and square. Unisex fit.",
+    "priceMinor": 7800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=900&q=80",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=900&q=80"
+    ],
+    "categoryId": "accessories",
+    "variants": [
+      {
+        "id": "acetate-sunglasses-tortoise",
+        "name": "Tortoise",
+        "options": {
+          "size": "One Size",
+          "color": "Tortoise"
+        }
+      },
+      {
+        "id": "acetate-sunglasses-matte-black",
+        "name": "Matte Black",
+        "options": {
+          "size": "One Size",
+          "color": "Matte Black"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-05-07T10:00:00.000Z"
+  },
+  {
+    "id": "canvas-weekender",
+    "name": "Canvas Weekender Bag",
+    "description": "A carry-on-sized duffle in waxed canvas with leather handles and a detachable shoulder strap.",
+    "priceMinor": 11800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+      "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=900&q=80"
+    ],
+    "categoryId": "accessories",
+    "variants": [
+      {
+        "id": "canvas-weekender-field-green",
+        "name": "Field Green",
+        "options": {
+          "size": "One Size",
+          "color": "Field Green"
+        }
+      }
+    ],
+    "featured": false,
+    "createdAt": "2026-01-30T10:00:00.000Z"
+  }
+]
