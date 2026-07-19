@@ -11,14 +11,44 @@ const tar = require('tar');
 
 const { CONFIG_FILE, applyTemplate } = require('./config');
 
-/** GitHub repo and ref the template tarball is fetched from when not running locally. */
+/** GitHub repo the template tarball is fetched from when not running locally. */
 const TEMPLATE_REPO = process.env.SKOSH_TEMPLATE_REPO || 'kodaraj/skosh';
-const TEMPLATE_REF = process.env.SKOSH_TEMPLATE_REF || 'main';
+/** Optional pinned ref; when unset the repo's default branch is discovered. */
+const TEMPLATE_REF = process.env.SKOSH_TEMPLATE_REF || '';
 
 const PACKAGE_MANAGERS = ['npm', 'yarn', 'pnpm', 'bun'];
 
 /** Top-level entries never copied into a new project. */
 const EXCLUDES = new Set(['node_modules', '.git', '.expo', 'packages', 'dist', '.DS_Store']);
+
+/** Asks GitHub for the repo's default branch, or null if it cannot be reached. */
+async function fetchDefaultBranch(repo) {
+  try {
+    const response = await fetch(`https://api.github.com/repos/${repo}`, {
+      headers: { Accept: 'application/vnd.github+json' },
+    });
+    if (!response.ok) return null;
+    const data = await response.json();
+    return typeof data.default_branch === 'string' ? data.default_branch : null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Builds the ordered list of refs to try. An explicit SKOSH_TEMPLATE_REF wins;
+ * otherwise the repo's default branch is tried first, then common fallbacks.
+ */
+async function resolveRefs(repo) {
+  if (TEMPLATE_REF) return [TEMPLATE_REF];
+  const seen = new Set();
+  const refs = [await fetchDefaultBranch(repo), 'main', 'master'].filter((ref) => {
+    if (!ref || seen.has(ref)) return false;
+    seen.add(ref);
+    return true;
+  });
+  return refs;
+}
 
 /**
  * Finds the template files: a local checkout when available (SKOSH_TEMPLATE_DIR
@@ -32,14 +62,25 @@ async function resolveTemplateDir() {
   if (await fse.pathExists(path.join(localRepo, CONFIG_FILE))) return localRepo;
 
   const tmp = await fse.mkdtemp(path.join(os.tmpdir(), 'skosh-template-'));
-  const url = `https://codeload.github.com/${TEMPLATE_REPO}/tar.gz/refs/heads/${TEMPLATE_REF}`;
+  const refs = await resolveRefs(TEMPLATE_REPO);
   console.log(`Downloading template from ${TEMPLATE_REPO}...`);
-  const response = await fetch(url);
-  if (!response.ok || !response.body) {
-    throw new Error(`Could not download the template (HTTP ${response.status}) from ${url}`);
+
+  let lastStatus = 0;
+  for (const ref of refs) {
+    const url = `https://codeload.github.com/${TEMPLATE_REPO}/tar.gz/refs/heads/${ref}`;
+    const response = await fetch(url);
+    if (response.ok && response.body) {
+      await pipeline(Readable.fromWeb(response.body), tar.x({ cwd: tmp, strip: 1 }));
+      return tmp;
+    }
+    lastStatus = response.status;
   }
-  await pipeline(Readable.fromWeb(response.body), tar.x({ cwd: tmp, strip: 1 }));
-  return tmp;
+
+  throw new Error(
+    `Could not download the template from ${TEMPLATE_REPO} (last HTTP ${lastStatus}). ` +
+      `Tried: ${refs.join(', ') || 'no refs'}. ` +
+      'Set SKOSH_TEMPLATE_REF to a valid branch or tag.',
+  );
 }
 
 /** Rewrites app identity and template config inside the freshly copied project. */

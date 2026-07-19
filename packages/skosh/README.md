@@ -28,7 +28,9 @@ price filter buckets) in place; restart the dev server to see the new look.
 
 When run from inside a checkout of the skosh repo (or with
 `SKOSH_TEMPLATE_DIR` set), the local template files are used; otherwise the
-template is downloaded from GitHub.
+template is downloaded from GitHub. By default it fetches the repository's
+default branch; set `SKOSH_TEMPLATE_REF` to pin a specific branch or tag, or
+`SKOSH_TEMPLATE_REPO` to point at a fork.
 
 ## License
 
